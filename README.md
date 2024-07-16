@@ -9,7 +9,7 @@ This project is an interactive dashboard to explore the Belly Button Biodiversit
 - Display of individual demographic information.
 - Dynamic updates when a new sample is selected.
 
-##Note
+## Note
 I have used the 'console-log' function at each step to see the structure of the data at each step.
 
 Thank you.
