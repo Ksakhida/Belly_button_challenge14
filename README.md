@@ -12,4 +12,6 @@ This project is an interactive dashboard to explore the Belly Button Biodiversit
 ## Note
 I have used the 'console-log' function at each step to see the structure of the data at each step.
 
+I have also deployed my webpage and sharing the screenshot for the same
+
 Thank you.
